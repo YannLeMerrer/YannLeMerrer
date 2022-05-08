@@ -1,8 +1,8 @@
-## Mes projets réalisés durant mon stage de 3ème :
+## Mes projets réalisés durant mon stage de 3ème
 * [Egg Board](https://github.com/YannLeMerrer/eggboard)
 * [Humeur](https://github.com/YannLeMerrer/humeur)
 
-## Mes projets personels :
+## Mes projets personels
 * [FizzBuzz](https://github.com/YannLeMerrer/FizzBuzz)
 * [Shooter](https://github.com/YannLeMerrer/shooter)
 * [Casse Brique](https://github.com/YannLeMerrer/CasseBrique)
