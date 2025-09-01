@@ -9,3 +9,6 @@
 * [Timer](https://github.com/YannLeMerrer/Timer)
 * [Nombre](https://github.com/YannLeMerrer/Nombre)
 * [Calculatrice](https://github.com/YannLeMerrer/Calculatrice)
+* [Série d'exercices du cours de Zeste De Savoir](https://github.com/YannLeMerrer/LearningC)
+* [Bataille Navale en C](https://github.com/YannLeMerrer/BatailleNavale)
+* [Bataille Navale en Java](https://github.com/YannLeMerrer/BatailleNavaleJava)
