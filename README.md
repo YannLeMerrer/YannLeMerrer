@@ -12,4 +12,5 @@
 * [Série d'exercices du cours de Zeste De Savoir](https://github.com/YannLeMerrer/LearningC)
 * [Bataille Navale en C](https://github.com/YannLeMerrer/BatailleNavale)
 * [Bataille Navale en Java](https://github.com/YannLeMerrer/BatailleNavaleJava)
+* [Jeu de la vie en Python](https://github.com/YannLeMerrer/GameOfLife)
 * [Totemory Stats](https://github.com/YannLeMerrer/TotemoryStats)
